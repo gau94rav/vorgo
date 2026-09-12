@@ -1,4 +1,4 @@
-fastapi==0.115.0
+fastapi==0.141.1
 uvicorn[standard]==0.32.0
 sqlalchemy[asyncio]==2.0.36
 asyncpg==0.30.0
@@ -12,7 +12,7 @@ cryptography==49.0.0
 passlib[bcrypt]==1.7.4
 pyotp==2.9.0
 fastapi-users[sqlalchemy]==15.0.5
-sqladmin==0.20.0
+sqladmin==0.27.1
 jinja2==3.1.5
 python-multipart==0.0.31
 slowapi==0.1.9
